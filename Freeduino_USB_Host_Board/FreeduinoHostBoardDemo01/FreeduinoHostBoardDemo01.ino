@@ -1,8 +1,5 @@
 /* FreeduinoHostBoardDemoV01.pde
-* demo sketch for the Modern Device FreeduinoHostBoard  moderndevice.com
-*
-* This is an early beta demo sketch and we'll get this into better shape in the 
-* near future.
+* demo sketch for the Modern Device Freeduino USB Host Board  moderndevice.com
 
 *  This sketch works with Google's Android ADK app
 *  with code from Google & www.circuitsathome.com
