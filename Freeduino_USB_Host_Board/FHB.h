@@ -21,6 +21,8 @@
 #define __FHB_h__
 
 #include "Arduino.h"
+#include "Max3421e.h"
+#include "Usb.h"
 
 class AndroidAccessory {
 private:
